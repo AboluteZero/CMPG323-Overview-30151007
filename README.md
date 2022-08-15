@@ -5,3 +5,4 @@ my deomo for practicing
 My branching strategy is ..and it can be seen in the diagram below
 
 # project and repository structure
+strucrure look like ... see o the diagram
