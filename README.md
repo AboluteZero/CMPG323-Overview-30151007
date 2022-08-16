@@ -1,11 +1,15 @@
 # CMPG323-Overview-30151007
 my deomo for practicing
 
-# branching strategies
-My branching strategy is ..and it can be seen in the diagram below
+## Repositories
 
-# project and repository structure
-strucrure look like ... see o the diagram
+I will be creating a new repository for each project throught.
 
-### List of repositories
-. data Capture: https://github.com/AboluteZero/CMPG323-Overview-30151007/blob/main/README.md
+* project 1
+* project 2
+* project 3
+* project 4
+* project 5 
+All this projects will be having their own repositories, there will be a total of five five repository aligned to each project.
+
+
