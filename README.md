@@ -45,7 +45,15 @@ Useless system files like .DS_Store on macOS
 Generated files like dist folders
 Dependencies which can be downloaded from a package manager
 
-
+## Storage of Credentials and sensitive information
+ I will be storing all my sensitive informations and credentials using encryptions so that no unauthorised users can access them.
+ I will also use the  git-credential-store to store my passwords unencrypted on the disk.
+ If I commit sensitive data, such as a password or SSH key into a Git repository, I will  remove it from the history. To entirely remove  that sensitive  or unwanted files from a repository's history I Will use either the git filter-repo tool or the BFG Repo-Cleaner open source tool.
+ 
+ ## References
+ [Branching strategies](https://www.flagship.io/git-branching-strategies/)
+ 
+ [Sensitive info](https://docs.github.com/en/actions/security-guides/encrypted-secrets)
 
 
 
